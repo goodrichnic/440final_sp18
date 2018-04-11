@@ -3,23 +3,24 @@
 
 ## Basic Info
 
-Title:
+Title: Neuro Gestures
 
-Length:
+Length: 5-10 Minutes 
 
 
 ## Description
 
+A sonic exploration centered around the sounds of contemporary neurobass and electronic music sound design. 
 
 
 ## Tech Info
 
-Lighting:
+Lighting: Stage Lights
 
-Sound:
+Sound: 1/8 inch headphone jack 
 
-Projector/Screen:
+Projector/Screen: From my laptop
 
-Stage:
+Stage: Desk for laptop and controllers 
 
-Other Tech Needs:
+Other Tech Needs: n/a
